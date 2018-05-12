@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Implementation-Title: simulador-api
+Implementation-Version: 1.0.0
+Built-By: Gilmar
+Implementation-Vendor-Id: br.com.banctec
+Build-Jdk: 1.8.0_171
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-bo
+ ot-starter-parent/simulador-api
+Created-By: Maven Integration for Eclipse
+
